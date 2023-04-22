@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.game{
+  width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.boxgame{
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+  border: 1px solid red;
+}

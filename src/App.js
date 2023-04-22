@@ -62,11 +62,11 @@ function App() {
 
   };
 
-
-
 return (
   <div>
     <h2>LearnReactjs</h2>
+    <h1>xin chao cac ban nhe</h1>
+    <h1>update xin chao cac ban</h1>
     <h1>{x}</h1>
     <h1>name: {text}</h1>
     <h1>
